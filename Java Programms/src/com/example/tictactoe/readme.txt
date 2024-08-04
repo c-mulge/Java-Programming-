@@ -19,9 +19,9 @@ Clone the Repository: git clone <repository-url>
 
 Navigate to the Project Directory: cd <project-directory>
 
-Compile the Code: javac com/example/tictactoe/tictactoegame.java com/example/tictactoe/tictactoeboard.java
+Compile the Code: javac com/example/tictactoe/tictactoeapp.java
 
-Run the Game: java com.example.tictactoe.tictactoeboard
+Run the Game: java com.example.tictactoe.tictactoeapp
 
 *****************************************************************************************************************************
 How to Play:
